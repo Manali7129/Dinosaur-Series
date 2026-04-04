@@ -127,11 +127,11 @@ const archive = [
     subtitle: "Decades of experience across India and the Middle East",
     note: "Site experience, patience, and practical judgement.",
   },
-  {
-    title: "Next conversation",
-    subtitle: "Coming soon",
-    note: "A place for the next engineer in the series.",
-  },
+ {
+  title: "Bill Maloukis",
+  subtitle: "Director of Construction Specialties | CP Eng MIE Aust",
+  note: "Experience built over decades, shaped through projects, people, and decisions on the ground.",
+},
 ];
 
 const projectImages = [
@@ -175,7 +175,7 @@ export default function App() {
             Conversations with experienced engineers
           </p>
           <h1 className="text-4xl md:text-6xl font-semibold leading-tight max-w-4xl">
-            Lessons from engineers shaped by experience!
+            Experience shapes how engineering actually works
           </h1>
           <p className="mt-5 text-base md:text-lg leading-8 text-stone-700 max-w-3xl">
             This is a simple personal webpage for my Dinosaur Series. Each
