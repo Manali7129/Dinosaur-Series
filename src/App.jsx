@@ -175,8 +175,7 @@ export default function App() {
             Conversations with experienced engineers
           </p>
           <h1 className="text-4xl md:text-6xl font-semibold leading-tight max-w-4xl">
-            Lessons from engineers who built their knowledge long before it
-            became a headline.
+            Lessons from engineers shaped by experience!
           </h1>
           <p className="mt-5 text-base md:text-lg leading-8 text-stone-700 max-w-3xl">
             This is a simple personal webpage for my Dinosaur Series. Each
