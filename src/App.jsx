@@ -91,7 +91,6 @@ const conversations = [
     heroImage: "/images/bill-main.jpg",
     gallery: [
       "/images/bill-project-1.jpg",
-      "/images/bill-project-2.jpg",
     ],
     intro: [
       "As part of my Dinosaur Series, I had a conversation with Bill Maloukis, who has over four decades of experience across construction and design, along with leadership roles in the industry.",
