@@ -234,10 +234,7 @@ function HomePage() {
           </h1>
 
           <p className="mt-5 text-base md:text-lg leading-8 text-stone-700 max-w-3xl">
-            This is a simple personal webpage for my Dinosaur Series. Each
-            conversation captures practical lessons, judgement, mistakes, and
-            insights that rarely appear in textbooks but shape real engineering
-            work.
+            This website documents conversations with senior engineers about the lessons, judgement, and realities of engineering that are often learned only through experience.
           </p>
         </header>
 
